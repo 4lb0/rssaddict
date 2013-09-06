@@ -1,0 +1,8 @@
+.pure-g-r{ margin: 0 5% }
+ a{ text-decoration: none; color: #3B8BBA }
+ .about{ font-size: 75% }
+ p{ text-align: justify }
+ .sidebar h3{ text-align: right }
+ .pure-u-2-5{ float: left; clear: left }
+ .right{ float: right; clear: right }
+ footer{ border-top: 1px solid #DFDFDF; font-size: 85%; margin-top: 20px; padding: 20px 0; text-align: center }

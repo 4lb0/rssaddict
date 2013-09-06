@@ -1,0 +1,5 @@
+
+RewriteEngine On
+RewriteBase /~albo/projects/news/
+RewriteRule ^.*\.css$ - [NC,L]
+RewriteRule ^.*$ index.php [NC,L]
